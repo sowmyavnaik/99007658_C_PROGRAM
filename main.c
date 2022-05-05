@@ -18,5 +18,6 @@ int main()
     scanf("%s", name);
     res=sumhexa(name);
     printf("sum:%x",res);
+    
     return 0;
 }

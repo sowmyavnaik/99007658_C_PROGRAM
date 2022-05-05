@@ -9,6 +9,7 @@
  * 
  */
 #include "sum.h"
+
 int sumhexa(char name[])
 {
     union Data d; 
@@ -26,3 +27,4 @@ while(name[i]!='\0')
    }
     return sum;
 }
+
