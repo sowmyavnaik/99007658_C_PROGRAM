@@ -1,4 +1,4 @@
-PROJECT=sum_name
+PROJECT=sum
 SRC= sum.c main.c
 
 Build:

@@ -19,5 +19,5 @@ union Data
    uint8_t n;
    //char ch;
 };
-int sumhexa(char name[])
+int sumhexa(char name[]);
 #endif
